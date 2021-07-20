@@ -9,11 +9,11 @@ this is for educational purpose only...do not use for harm anyone...If so, we ar
 
 **cd EBomber**
 
-**python install -r req.txt**
+**pip install -r req.txt**
 
 **or**
 
-**python3 install -r req.txt**
+**pip install -r req.txt**
 
 **python3 EBomber.py**
 
@@ -29,11 +29,11 @@ this is for educational purpose only...do not use for harm anyone...If so, we ar
 
 **cd EBomber**
 
-**python install -r req.txt**
+**pip install -r req.txt**
 
 **or**
 
-**python3 install -r req.txt**
+**pip install -r req.txt**
 
 **python3 EBomber.py**
 
