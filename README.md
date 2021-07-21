@@ -13,7 +13,7 @@ this is for educational purpose only...do not use for harm anyone...If so, we ar
 
 **pkg install pyfiglet**
 
-**pkg install tercolor**
+**pkg install termcolor**
 
 **python3 EBomber.py**
 
@@ -29,7 +29,7 @@ this is for educational purpose only...do not use for harm anyone...If so, we ar
 
 **pkg install pyfiglet**
 
-**pkg install tercolor**
+**pkg install termcolor**
 
 **python EBomber.py**
 
