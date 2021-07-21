@@ -11,15 +11,10 @@ this is for educational purpose only...do not use for harm anyone...If so, we ar
 
 **pip install -r req.txt**
 
-**or**
-
-**pip install -r req.txt**
+**pkg install pyfiglet**
+**pkg install tercolor**
 
 **python3 EBomber.py**
-
-**or**
-
-**python EBomber.py**
 
 
 
@@ -31,13 +26,8 @@ this is for educational purpose only...do not use for harm anyone...If so, we ar
 
 **pip install -r req.txt**
 
-**or**
-
-**pip install -r req.txt**
-
-**python3 EBomber.py**
-
-**or**
+**pkg install pyfiglet**
+**pkg install tercolor**
 
 **python EBomber.py**
 
