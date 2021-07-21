@@ -12,6 +12,7 @@ this is for educational purpose only...do not use for harm anyone...If so, we ar
 **pip install -r req.txt**
 
 **pkg install pyfiglet**
+
 **pkg install tercolor**
 
 **python3 EBomber.py**
@@ -27,6 +28,7 @@ this is for educational purpose only...do not use for harm anyone...If so, we ar
 **pip install -r req.txt**
 
 **pkg install pyfiglet**
+
 **pkg install tercolor**
 
 **python EBomber.py**
