@@ -1,7 +1,7 @@
 # EBomber
 this is for educational purpose only...do not use for harm anyone...If so, we are not responsible
 
-# **Working for linux,windows and turmux**
+# **Working for linux,windows and termux**
 
 # **Installing on Kali Linux and other linux platforms**
 
@@ -11,9 +11,9 @@ this is for educational purpose only...do not use for harm anyone...If so, we ar
 
 **pip install -r req.txt**
 
-**pkg install pyfiglet**
+**pip install pyfiglet**
 
-**pkg install termcolor**
+**pip install termcolor**
 
 **python3 EBomber.py**
 
