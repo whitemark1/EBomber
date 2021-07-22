@@ -34,6 +34,10 @@ this is for educational purpose only...do not use for harm anyone...If you do an
 
 **pkg install python3 -y**
 
+**pip install**
+
+**pip install --upgrade pip**
+
 **pip install -r req.txt**
 
 **pkg install pyfiglet**
