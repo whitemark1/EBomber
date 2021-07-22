@@ -11,13 +11,6 @@ this is for educational purpose only...do not use for harm anyone...If you do an
 
 **pip install -r req.txt**
 
-**apt update && apt upgrade -y**
-
-**pkg install git -y**
-
-**pkg install python -y**
-
-**pkg install python3 -y**
 
 **pip install pyfiglet**
 
@@ -32,6 +25,14 @@ this is for educational purpose only...do not use for harm anyone...If you do an
 **git clone https://github.com/Team-CAT1/EBomber.git**
 
 **cd EBomber**
+
+**apt update && apt upgrade -y**
+
+**pkg install git -y**
+
+**pkg install python -y**
+
+**pkg install python3 -y**
 
 **pip install -r req.txt**
 
