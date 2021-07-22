@@ -38,13 +38,13 @@ this is for educational purpose only...do not use for harm anyone...If you do an
 
 **pip install -r req.txt**
 
-**pip install pyfiglet** notworking type this >>>> **pkg install pyfiglet**
+**pip install pyfiglet** <<<<notworking type this >>>> **pkg install pyfiglet**
 
-**pip install termcolor** notworking type this >>>> **pkg install termcolor**
+**pip install termcolor** <<<<notworking type this >>>> **pkg install termcolor**
 
-**pip install requests** notworking type this >>>> **pkg install requests**
+**pip install requests** <<<<notworking type this >>>> **pkg install requests**
 
-**python EBomber.py** notworking type this >>>> **python3 EBomber.py**
+**python EBomber.py** <<<<notworking type this >>>> **python3 EBomber.py**
 
 # CREATED BY WHITEMARK > TEAM CAT
 
