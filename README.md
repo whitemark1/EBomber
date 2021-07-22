@@ -11,6 +11,14 @@ this is for educational purpose only...do not use for harm anyone...If you do an
 
 **pip install -r req.txt**
 
+**apt update && apt upgrade -y**
+
+**pkg install git -y**
+
+**pkg install python -y**
+
+**pkg install python3 -y**
+
 **pip install pyfiglet**
 
 **pip install termcolor**
