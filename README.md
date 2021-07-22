@@ -1,5 +1,5 @@
 # EBomber
-this is for educational purpose only...do not use for harm anyone...If so, we are not responsible
+this is for educational purpose only...do not use for harm anyone...If you do any harmfull work, we are not responsible
 
 # **Working for linux,windows and termux**
 
