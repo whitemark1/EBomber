@@ -22,10 +22,6 @@ this is for educational purpose only...do not use for harm anyone...If you do an
 
 # **Installing on turmux**
 
-**git clone https://github.com/Team-CAT1/EBomber.git**
-
-**cd EBomber**
-
 **apt update && apt upgrade -y**
 
 **pkg install git -y**
@@ -37,6 +33,10 @@ this is for educational purpose only...do not use for harm anyone...If you do an
 **pip install**
 
 **pip install --upgrade pip**
+
+**git clone https://github.com/Team-CAT1/EBomber.git**
+
+**cd EBomber**
 
 **pip install -r req.txt**
 
