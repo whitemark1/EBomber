@@ -32,19 +32,19 @@ this is for educational purpose only...do not use for harm anyone...If you do an
 
 **pip install**
 
-**pip install --upgrade pip**
-
 **git clone https://github.com/Team-CAT1/EBomber.git**
 
 **cd EBomber**
 
 **pip install -r req.txt**
 
-**pkg install pyfiglet**
+**pip install pyfiglet** notworking type this >>>> **pkg install pyfiglet**
 
-**pkg install termcolor**
+**pip install termcolor** notworking type this >>>> **pkg install termcolor**
 
-**python EBomber.py**
+**pip install requests** notworking type this >>>> **pkg install requests**
+
+**python EBomber.py** notworking type this >>>> **python3 EBomber.py**
 
 # CREATED BY WHITEMARK > TEAM CAT
 
